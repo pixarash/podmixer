@@ -1,0 +1,5 @@
+{
+  "name": "PodMixer",
+  "description": "A web-based audio editor for podcasters, focusing on multi-track mixing and keyframe volume automation. Upload voice, music, and effects, arrange them on a timeline, and visually edit volume levels to create professionally mixed podcasts ready for platforms like Spotify.",
+  "requestFramePermissions": []
+}
